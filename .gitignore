@@ -1,0 +1,28 @@
+# Logs
+Logs/
+logs/
+*.log
+
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# others (如果還有其他暫存檔)
+*.log
+
+config/
+*.config
+
+.env.production
+
+appsettings.Development.json
+
+githubtoken.json
+
+localdepoly.md
+
+etc
